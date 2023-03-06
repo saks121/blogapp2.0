@@ -1,0 +1,176 @@
+.TopArticles-left-comp{
+    width: 800px;
+    height: 1120px;
+    background-color: antiquewhite;
+    position: absolute;
+    left: 40px;
+    top: 256px;
+    display: inline;
+
+
+}
+
+.TopArticles-left-data-1{
+
+    width: 713px;
+    height: 260px;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+    padding-left: 21px;
+    margin-top: 30px;
+    background-color: aqua;
+    /* background-color: azure; */
+}
+
+#TopArticles-left-imgurl{
+    width: 240px;
+    height: 240px;
+    position: relative;
+    left: -240px;
+    top: 10px;
+
+}
+
+#TopArticles-left-title{
+    width: 280px;
+    height: 45px;
+    position: relative;
+    left: 264px;
+    top: -255px;
+    font-size: 30px;
+    /* background-color: aquamarine; */
+    text-align: left;
+    color: coral;
+
+}
+
+#TopArticles-left-desc{
+    width: 372px;
+    height: 100px;
+    position: relative;
+    left: 267px;
+    top: -258px;
+    font-size: 12px;
+    text-align: left;
+}
+
+#TopArticles-left-cat{
+    position: relative;
+    width: 50px;
+    font-size: 15px;
+    color: deeppink;
+    top: -257px;
+    left: 266px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.TopPostsm-comp{
+    width: 391px;
+    height: 359px;
+    background-color: burlywood;
+    position: absolute;
+    top: 261px;
+    left: 14px;
+    display: grid;
+
+}
+
+.TopPostsm-data-1{
+    width: 330px;
+    height: 200px;
+    margin-top: 18px;
+    margin-left: 18px;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    background-color: aquamarine;
+    position: relative;
+    left: 8px;
+
+    /* width: 480px;
+    height: 120px;
+    margin: 30px;
+    padding-left: 21px;
+    background-color: azure; */
+
+}
+
+#TopPostsm-imgurl{
+    width: 160px;
+    height: 150px;
+    position: relative;
+    left: -73px;
+    top: 17px;
+
+
+}
+
+#TopPostsm-title-head{
+    position: relative;
+    top: -211px;
+    left: 53px;
+    font-size: 22px;
+    color: coral;
+
+}
+
+#TopPostsm-class{
+    position: relative;
+    top: -205px;
+    left: 33px;
+    color: coral;
+
+}
+
+#TopPostsm-title{
+    width: 135px;
+    position: relative;
+    left: 180px;
+    height: 60px;
+    text-align: left;
+    top: -120px;
+    font-size: 17px;
+    color: coral;
+}
+
+p#TopPostsm-title{
+    width: 140px;
+    position: relative;
+    left: 180px;
+    height: 60px;
+    text-align: left;
+    top: -131px;
+    font-size: 17px;
+    color: coral;
+}
+#TopPostsm-cat{
+    position: relative;
+    width: 40px;
+    top: -168px;
+    font-size: 14px;
+    left: 181px;
+    color: crimson;
+}
+
+#TopPostsm-day-time{
+    width: 236px;
+    position: relative;
+    top: -170px;
+    left: 184px;
+    font-size: 9px;
+    text-align: left;
+    color: darkorange;
+}

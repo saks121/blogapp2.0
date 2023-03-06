@@ -1,0 +1,47 @@
+Routes
+Static Routes
+    1."/"
+    2."/bollywood"
+    3."/hollywood"
+    4."/technology"
+    5."Fitness"
+    6."/Food"
+
+Dynamic Routes
+    1."/article:/article_id "
+
+
+Header Cmponents ->Common
+    1.logo
+    2.Navigation      
+
+
+3.POster -> Generic 
+    image
+    title
+    subtitle/cat
+    date
+    width
+    height     
+4.Latest Components ->Generic
+    image
+    title
+    subtitle/cat
+    date
+    width
+    height
+5.Article Components ->Generic
+    Article title
+    Authr's name
+    Author's profileImage
+    Article'sDate
+    TIme to read
+    Author's Social profile
+    Article's image
+    clap img
+    share img
+    article related img's
+    related topics (for suggestin)
+
+6.Context API: 
+    

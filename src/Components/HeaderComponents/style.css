@@ -1,0 +1,100 @@
+#img-head-comp{
+    top: 198px;
+    width: 600px;
+    height: 425px;
+    position: absolute;
+    left: 180px;
+}
+
+#img-head-comp-side-1{
+    width: 320px;
+    height: 212.5px;
+    position: absolute;
+    top: 198px;
+    right: 225px;
+}    
+
+#img-head-comp-side-2{
+    width: 320px;
+    height: 197.5px;
+    position: absolute;
+    top: 426px;
+    right: 225px;
+}
+
+#home-title{
+    position: absolute;
+    top: 430px;
+    left: 200px;
+    color: antiquewhite;
+    font-size: 40px;
+}
+
+#home-side-1-title{
+    position: absolute;
+    left: 817px;
+    top: 318px;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 236px;
+    height: 50px;
+
+}
+
+#home-side-2-title{
+    position: absolute;
+    left: 823px;
+    top: 541px;
+    color: antiquewhite;
+    font-size: 15px;
+    width: 236px;
+    height: 50px;
+
+}
+
+#home-cat{
+    text-align: center;
+    position: absolute;
+    left: 216px;
+    top: 506px;
+    color: antiquewhite;
+
+}
+
+#home-side-1-cat{
+    position: absolute;
+    top: 337px;
+    left: 807px;
+    color: antiquewhite;
+
+}
+
+#home-side-2-cat{
+    position: absolute;
+    top: 559px;
+    left: 807px;
+    color: antiquewhite;
+}
+
+#home-date{
+    text-align: center;
+    position: absolute;
+    top: 506px;
+    left: 263px;
+    color: antiquewhite;
+}
+
+#home-side-1-date{
+    position: absolute;
+    top: 337px;
+    left: 856px;
+    color: antiquewhite;
+
+}
+
+#home-side-2-date{
+    position: absolute;
+    top: 559px;
+    left: 856px;
+    color: antiquewhite;
+}
