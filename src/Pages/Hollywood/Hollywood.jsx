@@ -2,10 +2,13 @@ import React, { useContext } from 'react'
 import { store } from '../../ContextAPI/ContextApi';
  import TopArticlesH from './TopArticlesH';
 import TopPostsH from './TopPostsH';
+import Logo from '../../Components/Logo/Logo';
+
  export default function Hollywood() {
   const [dataHollywood] =useContext(store);
   return (
     <div>
+      <Logo/>
       <TopArticlesH dataval ={dataHollywood} title= {"Hollywood"} />
       <TopPostsH dataval={dataHollywood} />
 

@@ -1,7 +1,7 @@
 .TopArticles-left-comp{
     width: 800px;
     height: 1120px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     position: absolute;
     left: 40px;
     top: 256px;
@@ -19,16 +19,16 @@
     margin-bottom: 30px;
     padding-left: 21px;
     margin-top: 30px;
-    background-color: aqua;
-    /* background-color: azure; */
+    /* background-color: aqua; */
+    border-radius: 10px;
 }
 
 #TopArticles-left-imgurl{
-    width: 240px;
-    height: 240px;
+    width: 210px;
+    height: 210px;
     position: relative;
     left: -240px;
-    top: 10px;
+    top: 26px;
 
 }
 
@@ -37,7 +37,7 @@
     height: 45px;
     position: relative;
     left: 264px;
-    top: -255px;
+    top: -216px;
     font-size: 30px;
     /* background-color: aquamarine; */
     text-align: left;

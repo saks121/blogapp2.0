@@ -177,7 +177,7 @@ export default function ContextApi(props) {
       ,
       {
         id:'2',
-        imageurl:"https://miro.medium.com/v2/resize:fill:112:112/1*-YH-yO8TuLLwZ3YRc0iv4A.jpeg",
+        imageurl:"https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2022/12/CyberSignals_Blog-header-1200x800-1.jpg",
         title:"Trivy-Operator — Improve Container Runtime Security",
         desc:"Security Von: Thomas Rudrof The Trivy-Operator is a powerful tool that can help to improve the runtime security of your Kubernetes cluster by automatically scanning your container images for known",
         cat:"Technology"
@@ -185,9 +185,9 @@ export default function ContextApi(props) {
       ,
       {
         id:'3',
-        imageurl:"",
-        title:"",
-        desc:"",
+        imageurl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMgKvr237JCnf8n9QQ7fhOFOiAV-70AneFf5qnTYUE1_77pW-0pQdCuTzltNGSiGVOWtk&usqp=CAU",
+        title:"How to Secure Your Company with a Passwordless Login?",
+        desc:"Cyber Security is amongst the top priorities for most businesses these days. And placing so much focus on security is certainly warranted given the complex cyber threat landscape...2 March 2023",
         cat:"Technology"
       }
       ,
@@ -209,129 +209,130 @@ export default function ContextApi(props) {
       ,
       {
         id:'6',
-        imageurl:"https://miro.medium.com/v2/resize:fill:112:112/1*vbx6LCH6Z1UChTlovJoC9w.jpeg",
-        title:"Some Tips for Newbie Software Developers",
-        desc:"Some Tips for Newbie Software Developers .This article is for anyone new to the field of software development. The article mainly contains some of my tips to make the software development and learning process related to the software development",
+        imageurl:"https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg",
+        title:"PII Scanning: How to Ensure Customer Trust and Protect Your Business",
+        desc:" In a recent study, 84% of respondents indicated their concern over how their data is collected, and about privacy measures taken for their data security. They also voiced the...29 January 2023",
         cat:"Technology"
       }
       ,
       {
-        id:'1',
-        imageurl:"https://miro.medium.com/v2/resize:fill:112:112/1*XoL5iwT2n1S5Fcl29iIUyA.jpeg",
-        title:"Android Users Can Now Pay To Remove Spaces Buttons On Twitter",
+        id:'7',
+        imageurl:"https://hub.packtpub.com/wp-content/uploads/2018/03/Sentiment-Analysis-Tw.png",
+        title:"How Sentiment Analysis can work on Twitter",
         desc:"Buttons On TwitterCustom navigation is now made available to Twitter Blue Users on iOS Twitter Blue has finally begun letting Android users modify the app’s",
         cat:"Technology"
       }
       ,
       {
         id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        imageurl:"https://detailed.com/images/run-eat-repeat.jpg",
+        title:"Run Eat Repeat",
+        desc:"Run Eat Repeat is a site which covers running, recipes, weight loss and lifestyle topics through it's articles and podcast series.",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'2',
+        imageurl:"https://detailed.com/images/born-fitness.jpg",
+        title:"Breaking Muscle",
+        desc:"BreakingMuscle provides advice and information on fitness, workouts and healthy eating, as well as selling coaching tutorials.",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'3',
+        imageurl:"https://detailed.com/images/muscle-and-fitness.jpg",
+        title:"Muscle and Fitness",
+        desc:"Muscle and Fitness provides it's readers with practical workout and nutrition advice that they can follow to get in better shape.",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'4',
+        imageurl:"https://detailed.com/images/fit-bottomed.jpg",
+        title:"Fit Bottomed Girls",
+        desc:"Fit Bottomed Girls provides articles on podcasts featuring health information and workout advice, the site also features fat-loss coaching.",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'5',
+        imageurl:"https://detailed.com/images/fitbit.jpg",
+        title:"Fitbit Blog",
+        desc:"Fitbit.com provides advice, help and inspiration for those looking to reach fitness and health goals, the site also supplies it's own Fitbit products",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'6',
+        imageurl:"https://detailed.com/images/get-healthy.jpg",
+        title:"Get Healthy U",
+        desc:"Get Healthy U provides guides on how to maintain a happy and healthy life, as well as having an E-Course for it's audience to improve their health.",
+        cat:"Fitness"
+      }
+      ,
+      {
+        id:'7',
+        imageurl:"https://detailed.com/images/tony.jpg",
+        title:"Tony Gentilcore",
+        desc:"Tony Gentilcore teaches people how to increase their physical capabilities through articles on the site, coaching and programmes he offers and a number of products for sale.",
         cat:"Fitness"
       }
       ,
       {
         id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Fitness"
-      }
-      ,
-      {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        imageurl:"https://influencermarketinghub.com/wp-content/uploads/2018/06/Love-and-Lemons-Healthy-whole-food-vegan-and-v.png.webp",
+        title:"Love and Lemons",
+        desc:"Love and Lemons has been created by Jeanine Donofrio and her husband, Jack Mathews (“#1 taste-tester”). The blog’s name comes from the fact that Jeanine loves seasonal food, often finished off with a squeeze of lemon.",
         cat:"Food"
       }
       ,
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        id:'2',
+        imageurl:"https://cookieandkate.com/images/2023/02/basque-cheesecake-recipe-3-550x824.jpg",
+        title:"Foolproof Basque Cheesecake",
+        desc:"Behold, my favorite luscious dessert! This cheesecake recipe hails from the Basque region of Spain—specifically, from a restaurant called La Viña, where fresh cheesecakes line the walls and smell like heaven.Honestly, I’m not sure why this cheesecake (tarta de queso in Spanish) is called Basque cheesecake over here.",
         cat:"Food"
       }
       ,
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        id:'3',
+        imageurl:"https://cookieandkate.com/images/2021/05/homemade-caesar-salad-768x1158.jpg",
+        title:"Homemade Caesar Salad",
+        desc:"Raise your hand if you love a good Caesar salad. (Me! I do!) I have many favorite salads, but Caesar salad has been a favorite for as long as I can remember. A great Caesar salad hits a satisfying balance between fresh and crisp, and creamy and cheesy.",
         cat:"Food"
       }
       ,
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        id:'4',
+        imageurl:"https://influencermarketinghub.com/wp-content/uploads/2018/06/Minimalist-Baker.jpg.webp",
+        title:"Minimalist Baker",
+        desc:"Minimalist Baker is one of those sites where the name says it all. It shares plant-based recipes requiring 10 ingredients or less, 1 bowl, or 30 minutes or less to prepare. It publishes a new recipe every three days, with a mixture of savory and sweet dishes.Dana Shultz is the recipe developer and blogger.",
         cat:"Food"
       }
       ,
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        id:'5',
+        imageurl:"https://influencermarketinghub.com/wp-content/uploads/2018/06/Green-Kitchen-Stories.jpg.webp",
+        title:"Green Kitchen Stories",
+        desc:"Green Kitchen Stories features healthy vegetarian recipes by the Swedish-based couple, David Frenkiel and Luise Vindahl. Luise describes herself as the hippie-health-minded one, while David considers himself a vegetarian, food stylist, and photographer.David and Luise chose the name for their blog to represent their efforts to come up with healthy",
         cat:"Food"
       }
       ,
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
-        cat:"Food"
-      }
-      ,
+        id:'6',
+        imageurl:"https://influencermarketinghub.com/wp-content/uploads/2018/06/Sprouted-Kitchen-Google-Chrome-2022-12-21-10.50..jpg.webp",
+        title:"Sprouted Kitchen",
+        desc:"Partners, Sara Forte & Hugh Forte, work together to create Sprouted Kitchen. The site is as much about Hugh’s sumptuous food porn photography as it is about Sara’s mouth-watering recipes.They firmly believe in the benefits of eating seasonally.",  
+        cat:'Food'
+      }  
+      , 
+
       {
-        id:'1',
-        imageurl:"",
-        title:"",
-        desc:"",
+        id:'7',
+        imageurl:"https://pinchofyum.com/cdn-cgi/image/width=360,height=360,fit=crop/wp-content/uploads/salmon-burgers-on-a-plate.jpg",
+        title:"Yummy Salmon Burgers",
+        desc:"These salmon burgers are THE YUMMIEST! and made with just five ingredients. The best for a quick + easy high protein lunch or dinner.",
         cat:"Food"
       }
     ]);

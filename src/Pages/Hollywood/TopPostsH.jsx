@@ -4,7 +4,7 @@ import React from 'react'
 export default function TopPostsH({dataval}) {
   return (
     <div>
-      <div style={{width: '420px',height: '600px',position: 'absolute',top: '257px',left: '857px',backgroundColor: 'antiquewhite'}}>
+      <div style={{width: '420px',height: '600px',position: 'absolute',top: '257px',left: '857px'}}>
         <img style={{width: '152px',position: 'relative',left: '-108px',top: '13px'}} id='TopPostsm-img' src={dataval[13]?.imageurl} alt="not found"/>
         <p id='TopPostsm-title-head'>{dataval[13]?.title}</p>
         <p id='TopPostsm-class'>{dataval[13]?.cat}</p>
@@ -19,8 +19,7 @@ export default function TopPostsH({dataval}) {
              
                         <p id='TopPostsm-cat'>{item?.cat}</p>
                         <p id='TopPostsm-day-time'>{item?.desc}</p>
-                        <p id='TopPostsm-numb'>{index}</p>
-                    </div>
+                     </div>
                 );
             })}
         </div>

@@ -1,4 +1,4 @@
-import '../Hollywood/style.css';
+import '../Technology/style.css';
 import React from 'react'
 
 export default function TopArticlesT({dataval,title}) {
@@ -11,7 +11,7 @@ export default function TopArticlesT({dataval,title}) {
                 return(
                     <div className='TopArticles-left-data-1' key={index}>
                         <img id='TopArticles-left-imgurl'src={data?.imageurl} alt={"not found"} />
-                        <p id='TopArticles-left-title'>{data?.title}</p>
+                        <p style={{ position: 'relative',top: '-205px',left: '261px',width: '313px',textAlign: 'left',fontSize: '20px',color: 'coral'}}>{data?.title}</p>
                         <p id='TopArticles-left-cat'>{data?.cat}</p>
                         <p id='TopArticles-left-desc'>{data?.desc}</p>
                         

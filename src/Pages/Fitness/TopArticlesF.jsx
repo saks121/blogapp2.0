@@ -1,4 +1,4 @@
-import '../Hollywood/style.css';
+import '../Fitness/style.css';
 import React from 'react'
 
 export default function TopArticlesF({dataval,title}) {
@@ -6,7 +6,7 @@ export default function TopArticlesF({dataval,title}) {
     <div>
       <h1 style={{position: 'absolute',top: '163px',left: '70px',color: 'burlywood',fontSize:'40px'}}>{title}</h1>
         <div className='TopArticles-left-comp' >
-            {dataval.filter((item)=>item.cat ==='Hollywood').map((data,index)=>{
+            {dataval.filter((item)=>item.cat ==='Fitness').map((data,index)=>{
                 console.log("B data:",data);
                 return(
                     <div className='TopArticles-left-data-1' key={index}>

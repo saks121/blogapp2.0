@@ -1,7 +1,7 @@
 .TopArticles-left-comp{
     width: 800px;
     height: 1120px;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
     position: absolute;
     left: 40px;
     top: 256px;
@@ -19,38 +19,36 @@
     margin-bottom: 30px;
     padding-left: 21px;
     margin-top: 30px;
-    background-color: aqua;
-    /* background-color: azure; */
+    /* background-color: aqua; */
+    border-radius: 10px;
 }
 
 #TopArticles-left-imgurl{
-    width: 240px;
-    height: 240px;
+    width: 210px;
+    height: 210px;
     position: relative;
     left: -240px;
-    top: 10px;
+    top: 26px;
 
 }
 
-#TopArticles-left-title{
-    width: 280px;
-    height: 45px;
+p#TopArticlesT-left-title{
     position: relative;
-    left: 264px;
-    top: -255px;
-    font-size: 30px;
-    /* background-color: aquamarine; */
+    top: -243px;
+    left: 261px;
+    width: 313px;
     text-align: left;
+    font-size: 20px;
     color: coral;
 
-}
+}    
 
 #TopArticles-left-desc{
     width: 372px;
     height: 100px;
     position: relative;
     left: 267px;
-    top: -258px;
+    top: -201px;
     font-size: 12px;
     text-align: left;
 }
@@ -60,9 +58,10 @@
     width: 50px;
     font-size: 15px;
     color: deeppink;
-    top: -257px;
-    left: 266px;
-}
+    top: -216px;
+    left: 262px;
+
+}    
 
  
 
@@ -81,7 +80,7 @@
 .TopPostsm-comp{
     width: 391px;
     height: 359px;
-    background-color: burlywood;
+    /* background-color: burlywood; */
     position: absolute;
     top: 261px;
     left: 14px;
@@ -96,7 +95,7 @@
     margin-left: 18px;
     margin-right: 18px;
     margin-bottom: 18px;
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
     position: relative;
     left: 8px;
 
@@ -120,8 +119,8 @@
 
 #TopPostsm-title-head{
     position: relative;
-    top: -211px;
-    left: 53px;
+    top: -173px;
+    left: 205px;
     font-size: 22px;
     color: coral;
 
@@ -129,37 +128,26 @@
 
 #TopPostsm-class{
     position: relative;
-    top: -205px;
+    top: -189px;
     left: 33px;
     color: coral;
-
 }
 
 #TopPostsm-title{
-    width: 135px;
+    width: 187px;
     position: relative;
     left: 180px;
     height: 60px;
     text-align: left;
-    top: -120px;
-    font-size: 17px;
+    top: -162px;
+    font-size: 15px;
     color: coral;
 }
 
-p#TopPostsm-title{
-    width: 140px;
-    position: relative;
-    left: 180px;
-    height: 60px;
-    text-align: left;
-    top: -131px;
-    font-size: 17px;
-    color: coral;
-}
 #TopPostsm-cat{
     position: relative;
     width: 40px;
-    top: -168px;
+    top: -172px;
     font-size: 14px;
     left: 181px;
     color: crimson;
@@ -173,4 +161,11 @@ p#TopPostsm-title{
     font-size: 9px;
     text-align: left;
     color: darkorange;
+}
+
+#TopPostsm-img{
+    width: 217px;
+    position: relative;
+    left: -82px;
+    top: 13px;
 }
