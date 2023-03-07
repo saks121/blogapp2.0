@@ -8,7 +8,7 @@ import Hollywood from '../Pages/Hollywood/Hollywood'
 import Home from '../Pages/Home/Home'
 import Technology from '../Pages/Technology/Technology'
 
-export default function Routes_n() {
+export default function RoutesN() {
   return (
     <div>
       <BrowserRouter>
