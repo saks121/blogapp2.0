@@ -8,7 +8,7 @@ export default function TheLatestArticles({data,title}) {
       <h1 style={{position: 'absolute',top: '1564px',left: '185px',color: 'burlywood'}}>{title}</h1>
       <div className='TheLatestArticles-left-comp'>
         <div className='TheLatestArticles-left-data-1'>
-            <img id='TheLatestArticles-left-imgurl'src={data[3]?.imageurl} alt={"not found"} />
+            <img id='TheLatestArticles-left-imgurl'src={data[5]?.imageurl} alt={"not found"} />
             <p id='TheLatestArticles-left-title'>{data[5]?.title}</p>
             <p id='TheLatestArticles-left-desc'>{data[5]?.desc}</p>
             <p id='TheLatestArticles-left-cat'>{data[5]?.class}/</p>
@@ -16,7 +16,7 @@ export default function TheLatestArticles({data,title}) {
         </div>
 
         <div className='TheLatestArticles-left-data-1'>
-            <img id='TheLatestArticles-left-imgurl'src={data[3]?.imageurl} alt={"not found"} />
+            <img id='TheLatestArticles-left-imgurl'src={data[5]?.imageurl} alt={"not found"} />
             <p id='TheLatestArticles-left-title'>{data[5]?.title}</p>
             <p id='TheLatestArticles-left-desc'>{data[5]?.desc}</p>
             <p id='TheLatestArticles-left-cat'>{data[5]?.class}/</p>
@@ -24,7 +24,7 @@ export default function TheLatestArticles({data,title}) {
         </div>
 
         <div className='TheLatestArticles-left-data-1'>
-            <img id='TheLatestArticles-left-imgurl'src={data[3]?.imageurl} alt={"not found"} />
+            <img id='TheLatestArticles-left-imgurl'src={data[5]?.imageurl} alt={"not found"} />
             <p id='TheLatestArticles-left-title'>{data[5]?.title}</p>
             <p id='TheLatestArticles-left-desc'>{data[5]?.desc}</p>
             <p id='TheLatestArticles-left-cat'>{data[5]?.class}/</p>
@@ -32,7 +32,7 @@ export default function TheLatestArticles({data,title}) {
         </div>
 
         <div className='TheLatestArticles-left-data-1'>
-            <img id='TheLatestArticles-left-imgurl'src={data[3]?.imageurl} alt={"not found"} />
+            <img id='TheLatestArticles-left-imgurl'src={data[5]?.imageurl} alt={"not found"} />
             <p id='TheLatestArticles-left-title'>{data[5]?.title}</p>
             <p id='TheLatestArticles-left-desc'>{data[5]?.desc}</p>
             <p id='TheLatestArticles-left-cat'>{data[5]?.class}/</p>
@@ -40,7 +40,7 @@ export default function TheLatestArticles({data,title}) {
         </div>
 
         <div className='TheLatestArticles-left-data-1'>
-            <img id='TheLatestArticles-left-imgurl'src={data[3]?.imageurl} alt={"not found"} />
+            <img id='TheLatestArticles-left-imgurl'src={data[5]?.imageurl} alt={"not found"} />
             <p id='TheLatestArticles-left-title'>{data[5]?.title}</p>
             <p id='TheLatestArticles-left-desc'>{data[5]?.desc}</p>
             <p id='TheLatestArticles-left-cat'>{data[5]?.class}/</p>
